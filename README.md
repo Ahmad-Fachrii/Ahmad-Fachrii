@@ -2,8 +2,7 @@
 <h3 align="left">Game Programmer | Unity & C#</h3>
 <p align="left"><i>"Games are not just about function, but fun."</i></p>
 
-I am a Game Developer and undergraduate student in Digital Creative Multimedia at Telkom University. I specialize in gameplay programming and system architecture using Unity and C#. By combining my strong technical foundation with a solid understanding of UI/UX principles, my goal is always to build clean, optimized systems that deliver the best possible player 
-experience. After all, games are not just about function, but fun.
+I am a Game Developer and undergraduate student in Digital Creative Multimedia at Telkom University. I focus on gameplay programming and system architecture using Unity and C#, with additional experience in UI/UX design. I enjoy building clean and maintainable systems that support responsive and engaging player experiences.
 
 ---
 
@@ -12,7 +11,7 @@ experience. After all, games are not just about function, but fun.
 ### 🎮 Game Development
 <p align="left">
   <img src="https://img.shields.io/badge/Unity_6-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
 ### 🎨 Design
@@ -33,17 +32,40 @@ experience. After all, games are not just about function, but fun.
 <table>
   <tr>
     <td width="45%">
-      <a><img src="assets/lionontuesday.gif" alt="Lion On Tuesday"></a>
+      <img src="assets/Daydreamat8.gif" alt="Daydream at 8">
+    </td>
+    <td width="55%">
+      <h3>☀️ Daydream at 8</h3>
+      <p>⭐ <strong>Best Game Concept Nominee</strong> — Bandung Game Demo Day 2026</p>
+      <p><strong>Role:</strong> Lead Programmer | GAMESEED 2026</p>
+      <p><strong>Tech Stack:</strong> Unity 6, C#</p>
+      <p><strong>Key Implementations:</strong></p>
+      <ul>
+        <li>Led core gameplay development for a 2.5D Point & Click, 1D RTS, and Tower Defense game.</li>
+        <li>Developed a line-based drawing recognition system that maps player-drawn patterns into deployable units.</li>
+        <li>Architected a ScriptableObject-driven unit, combat, and crafting system with unit attributes, ink costs, cooldowns, and combination mechanics.</li>
+      </ul>
+      <br>
+      <p>
+        <a href="https://trulyadeba.itch.io/daydream-at-8"><img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+        <img src="https://img.shields.io/badge/Access-Private_Repo-lightgrey?style=flat-square" alt="Private Repo">
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="45%">
+      <img src="assets/lionontuesday.gif" alt="Lion On Tuesday">
     </td>
     <td width="55%">
       <h3>🎣 Lion On Tuesday</h3>
-      <p><strong>Role:</strong> Game Programmer Intern (Funix Indonesia)</p>
+      <p><strong>Role:</strong> Game Programmer Intern | Funix Indonesia</p>
       <p><strong>Tech Stack:</strong> Unity 6, C#</p>
       <p><strong>Key Implementations:</strong></p>
       <ul>
         <li>Developed the core fishing simulation and interaction mechanics.</li>
-        <li>Engineered a modular inventory system for player item management.</li>
-        <li>Implemented the game's state management and overall core logic.</li>
+        <li>Built an inventory system for item management and fishing-related interactions.</li>
+        <li>Implemented gameplay state management and supporting core systems.</li>
       </ul>
       <br>
       <img src="https://img.shields.io/badge/Status-In_Development-FFB000?style=flat-square" alt="In Development">
@@ -53,64 +75,64 @@ experience. After all, games are not just about function, but fun.
 
   <tr>
     <td width="45%">
-      <a><img src="assets/ric-man33.gif" alt="Ric-Man 33"></a>
+      <img src="assets/ric-man33.gif" alt="Ric-Man 33">
     </td>
     <td width="55%">
-      <h3>👻 Ric-Man 33 (🏆 Overall Winner)</h3>
-      <p><strong>Role:</strong> Lead Programmer (GDGoC UNSRI Game Jam 26)</p>
+      <h3>👻 Ric-Man 33</h3>
+      <p>🏆 <strong>Overall Winner</strong> — GDGoC UNSRI Game Jam 2026</p>
+      <p><strong>Role:</strong> Lead Programmer | GDGoC UNSRI Game Jam 2026</p>
       <p><strong>Tech Stack:</strong> Unity 6, C#</p>
       <p><strong>Key Implementations:</strong></p>
       <ul>
-        <li>Engineered a visual and auditory detection system for the Alien AI.</li>
-        <li>Developed a strategic item system allowing players to counter the Alien's attacks.</li>
-        <li>Implemented immersive environmental lighting to enhance the 2D horror atmosphere.</li>
+        <li>Developed a Triple-Threat AI system with line-of-sight detection, audio tracking, and global alert mechanics.</li>
+        <li>Implemented tactical counter-item mechanics for different enemy AI behaviors.</li>
+        <li>Built a dynamic difficulty system that scales gameplay based on player progression and DNA collection.</li>
       </ul>
       <br>
-      <a href="https://trulyadeba.itch.io/ric-man33" target="">
-        <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io">
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="45%">
-      <a><img src="assets/kurir33.gif" alt="Kurir 33"></a>
-    </td>
-    <td width="55%">
-      <h3>📦 Kurir 33 (⭐ Nominated for Best Game Design)</h3>
-      <p><strong>Role:</strong> Core Game Programmer (GIMJAM 2026)</p>
-      <p><strong>Tech Stack:</strong> Unity 6, C#</p>
-      <p><strong>Key Implementations:</strong></p>
-      <ul>
-        <li>Programmed core gameplay mechanics including elevator transitions and movement logic.</li>
-        <li>Engineered the item storage, weight calculation, and player health systems.</li>
-        <li>Enhanced the game's visual presentation through dynamic lighting implementations.</li>
-      </ul>
-      <br>
-      <a href="https://trulyadeba.itch.io/kurir-33" target="">
-        <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io">
-      </a>
+      <p>
+        <a href="https://trulyadeba.itch.io/ric-man33"><img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+        <img src="https://img.shields.io/badge/Access-Private_Repo-lightgrey?style=flat-square" alt="Private Repo">
+      </p>
     </td>
   </tr>
 
   <tr>
     <td width="45%">
-      <a><img src="assets/jungle-infection.png" alt="Jungle Infection"></a>
+      <img src="assets/kurir33.gif" alt="Kurir 33">
+    </td>
+    <td width="55%">
+      <h3>📦 Kurir 33</h3>
+      <p><strong>Role:</strong> Core Game Programmer | GIMJAM 2026</p>
+      <p>⭐ <strong>Best Game Design Nominee</strong> — GIMJAM 2026</p>
+      <p><strong>Tech Stack:</strong> Unity 6, C#</p>
+      <p><strong>Key Implementations:</strong></p>
+      <ul>
+        <li>Programmed core gameplay mechanics including movement and elevator transition systems.</li>
+        <li>Developed item storage, weight calculation, and player health systems.</li>
+        <li>Implemented dynamic lighting and visual effects to support the game's atmosphere.</li>
+      </ul>
+      <br>
+      <p>
+        <a href="https://trulyadeba.itch.io/kurir-33"><img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+        <img src="https://img.shields.io/badge/Access-Private_Repo-lightgrey?style=flat-square" alt="Private Repo">
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="45%">
+      <img src="assets/jungle-infection.png" alt="Jungle Infection">
     </td>
     <td width="55%">
       <h3>🌲 Jungle Infection</h3>
-      <p><strong>Role:</strong> Solo Game Programmer & Hardware Integrator (College Project)</p>
+      <p><strong>Role:</strong> Solo Game Programmer & Hardware Integrator | College Project</p>
       <p><strong>Tech Stack:</strong> Unity, C#, Hardware Sensors</p>
       <p><strong>Key Implementations:</strong></p>
       <ul>
-        <li>Served as the sole programmer, developing all core mechanics for the PC-based 2D shooter.</li>
-        <li>Integrated physical gun hardware equipped with a gyroscope for real-time in-game aiming.</li>
-        <li>Programmed hardware input logic translating physical triggers to shooting and reloading actions.</li>
+        <li>Developed all core gameplay mechanics for a PC-based 2D arcade shooter.</li>
+        <li>Integrated physical gun hardware with a gyroscope for real-time in-game aiming.</li>
+        <li>Programmed hardware input for shooting, reloading, and sensor-based aiming.</li>
       </ul>
-      <br>
-      <a href="-" target="_blank">
-        <img src="https://img.shields.io/badge/Watch-Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Demo">
-      </a>
     </td>
   </tr>
 </table>
@@ -118,6 +140,7 @@ experience. After all, games are not just about function, but fun.
 ---
 
 ## 📫 Let's Connect!
+
 * 💼 **LinkedIn:** [ahmad-fachri-yamin](https://www.linkedin.com/in/ahmad-fachri-yamin/)
 * 🌐 **Portfolio:** [ahmadfachri.typedream.app](https://ahmadfachri.typedream.app)
 * 📧 **Email:** [fahri121yt@gmail.com](mailto:fahri121yt@gmail.com)
